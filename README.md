@@ -1,5 +1,7 @@
 # Address Book
 
+[![Build Status](https://travis-ci.org/erm0l0v/address-book-assignment.svg?branch=master)](https://travis-ci.org/erm0l0v/address-book-assignment)
+
 ## Run tests
 
 ```
